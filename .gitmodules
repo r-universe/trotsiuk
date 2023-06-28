@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "r3PG"]
 	path = r3PG
 	url = https://github.com/trotsiuk/r3pg
-	shallow = true
 	subdir = pkg
-	registered = true
