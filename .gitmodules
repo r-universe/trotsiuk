@@ -5,4 +5,3 @@
 [submodule "r3PG"]
 	path = r3PG
 	url = https://github.com/trotsiuk/r3pg
-	subdir = pkg
